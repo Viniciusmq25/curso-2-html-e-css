@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main{
+    margin: 200px auto;
+    display: block;
+    margin-left: 20%;
+}
+
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    margin: 20px 0;
+    line-height: 56px;
+}
+
+p{
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+strong {
+    color: #22D4FD;
+}
+
+nav a {
+    display: inline;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-decoration: none;
+    margin: 40px 30px;
+    background: #22D4FD;
+    padding: 16px 50px;
+    border: 1px #22d4fd;
+    border-radius: 16px;
+}
+
+
+nav a:hover {
+    text-decoration-line: underline;
+}
+
+.imagem{
+    display: block;
+    width: 400px;
+    float: right;
+    margin-top: -100px;
+    margin-right: 400px;
+    margin-left: 80px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    box-shadow: 10px -10px #22D4FD;
+}
+
+
+
+
+
+
+
+
